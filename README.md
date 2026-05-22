@@ -34,3 +34,6 @@ FROM Superstore
 GROUP BY Category
 ORDER BY Total_Sales DESC;
 ```
+## Dashboard
+
+![Dashboard](dashboard.png)
